@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGllZjJlYzZ4dXhzbmJqODZlZ2FrbmVnbW81bTduZDlraDhvbmV6ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jr9tZ7z1tCqoS/giphy.gif" alt="AI Network Animation" width="200" />
+  <img src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif" alt="AI Neural Network Animation" width="200" />
 </p>
 
 <h1 align="center">Abdulrahman Hamdi</h1>
