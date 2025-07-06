@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif" alt="AI Neural Network Animation" width="200" />
+  <img src="profile-animation.gif" alt="My Custom GIF" width="200" />
 </p>
 
 <h1 align="center">Abdulrahman Hamdi</h1>
