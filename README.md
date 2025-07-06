@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Profile Banner" width="200" />
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Animated Banner" width="200" />
 </p>
 
 <h1 align="center">Abdulrahman Hamdi</h1>
@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  🎓 Honours Graduate from <b>Sivas Cumhuriyet University</b><br>
-  💡 Passionate about AI, Web Development, and Mathematics Education
+  Honours Graduate from <b>Sivas Cumhuriyet University</b><br>
+  Passionate about AI, Web Development, and Mathematics Education
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -46,7 +46,7 @@
 
 ---
 
-## 💡 Areas of Expertise
+## Areas of Expertise
 
 - Fullstack Web Development (Frontend & Backend)
 - Scalable Backend API Development
@@ -57,7 +57,7 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Deep Learning Specialization  
 - AI Research & Real-world Applications  
@@ -66,7 +66,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 - GitHub: [Your GitHub Link]  
 - LinkedIn: [Your LinkedIn Link]  
