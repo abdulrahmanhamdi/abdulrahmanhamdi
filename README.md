@@ -68,8 +68,8 @@
 
 ## Contact
 
-- GitHub: [Your GitHub Link]  
-- LinkedIn: [Your LinkedIn Link]  
+- GitHub: https://github.com/abdulrahmanhamdi  
+- LinkedIn: [Soon]  
 
 ---
 
