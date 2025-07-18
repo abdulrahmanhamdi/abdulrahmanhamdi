@@ -65,7 +65,21 @@
 - Teaching Advanced Math & Statistics  
 
 ---
+## 📈 GitHub Activity Overview
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanhamdi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 ## Contact
 
 - GitHub: https://github.com/abdulrahmanhamdi  
