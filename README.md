@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-dl.png" alt="GAN Deep Learning Banner" width="600" />
+  <img src="banner.png" alt="GAN Deep Learning Banner" width="600" />
 </p>
 
 <h1 align="center">Abdulrahman Hamdi</h1>
