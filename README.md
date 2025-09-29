@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🎓 Honours Graduate (Ranked 1st) – <b>Sivas Cumhuriyet University</b><br>
+  <b>Sivas Cumhuriyet University</b><br>
   💡 Passionate about AI, Web Development, and Mathematics Education
 </p>
 
