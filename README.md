@@ -76,7 +76,7 @@ Building intelligent systems with clean code, smart design, and solid mathematic
 ## GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanhamdi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdulrahmanhamdi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ Building intelligent systems with clean code, smart design, and solid mathematic
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
