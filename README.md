@@ -1,16 +1,22 @@
-<p align="center">
-  <img src="banner.png" alt="GAN Deep Learning Banner" width="600" />
-</p>
+<div align="center">
+  
+# Abdulrahman Hamdi
 
-<h1 align="center">Abdulrahman Hamdi</h1>
+**Computer & AI Engineer | Fullstack Developer | Deep Learning Enthusiast**
+
+Passionate about Artificial Intelligence, Web Development, and Mathematics Education.  
+Building intelligent systems with clean code, smart design, and solid mathematical foundations.
+
+</div>
+
+---
+
+## Highlights
 
 <p align="center">
-  <b>Computer & AI Engineer | Fullstack Developer | Deep Learning Enthusiast</b>
-</p>
-
-<p align="center">
-  Honours Graduate from <b>Sivas Cumhuriyet University</b><br>
-  Passionate about AI, Web Development, and Mathematics Education
+  <img src="https://img.shields.io/badge/AI_Engineer-Advanced-111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fullstack_Developer-Advanced-111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning_Researcher-Advanced-111?style=for-the-badge" />
 </p>
 
 ---
@@ -19,74 +25,77 @@
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-111?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-Advanced-111?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Java-Intermediate-111?style=flat-square&logo=java&logoColor=white"/>
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-Advanced-111?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Django-Advanced-111?style=flat-square&logo=django&logoColor=0FA958"/>
+  <img src="https://img.shields.io/badge/Node.js-Intermediate-111?style=flat-square&logo=node.js&logoColor=339933"/>
 </p>
 
 ### Databases
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/MySQL-Advanced-111?style=flat-square&logo=mysql&logoColor=4479A1"/>
 </p>
 
 ### AI & Deep Learning
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-Advanced-111?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/PyTorch-Advanced-111?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-Intermediate-111?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
 </p>
 
 ---
 
 ## Areas of Expertise
 
-- Fullstack Web Development (Frontend & Backend)
-- Scalable Backend API Development
-- Artificial Intelligence & Deep Learning
-- Mathematics & Statistics Tutoring
-- Generative AI (GANs, Neural Networks)
-- Version Control (Git & GitHub)
+- Fullstack Application Development  
+- Backend API Architecture and Database Modeling  
+- Deep Learning and Computer Vision  
+- Generative Models: GANs, Autoencoders, Neural Networks  
+- Mathematical Modeling and Statistics  
+- Version Control and Clean Code Practices  
 
 ---
 
 ## Current Focus
 
-- Deep Learning Specialization  
-- AI Research & Real-world Applications  
-- Building AI-powered Systems  
-- Teaching Advanced Math & Statistics  
+- Advanced Deep Learning Research  
+- AI-based Web Application Development  
+- Computer Vision Model Optimization  
+- Teaching Math and Statistics  
+- Expanding AI + Fullstack Projects Portfolio  
 
 ---
-## 📈 GitHub Activity Overview
+
+## GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanhamdi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanhamdi&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
+
 ## Contact
 
 - GitHub: https://github.com/abdulrahmanhamdi  
-- LinkedIn: [Soon]  
+- LinkedIn: Coming Soon  
 
 ---
 
-<p align="center">
-  <i>"The future belongs to those who prepare for it today."</i>
-</p>
+<div align="center">
+<i>"The future belongs to those who prepare for it today."</i>
+</div>
