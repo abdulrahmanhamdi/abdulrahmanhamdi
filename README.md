@@ -6,14 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+MSc+Student;Full-Stack+%26+AI+Developer;Published+Author+of+Three+Books;Ranked+1st+in+Department%2C+Sivas+Cumhuriyet+University" alt="Typing SVG" />
 </a>
 
-<p style="color: #212529;">
+<p>
 A multidisciplinary Software and AI Engineer, ranked 1st in my department at Sivas Cumhuriyet University
 and currently pursuing an MSc in Computer Engineering at Gebze Technical University.
 My expertise lies at the intersection of Artificial Intelligence and scalable Full-Stack Web Development,
 specializing in deploying Deep Learning models into production.
 </p>
 
-<p style="color: #6c757d;">
+<p>
 With proven experience in developing robust backends (Node.js, Next.js, Go, Django) and integrating
 advanced AI solutions (Computer Vision, Recommendation Systems), I am passionate about system architecture,
 code maintainability, and creating high-performance, data-driven digital products with real-world impact.
@@ -40,11 +40,11 @@ code maintainability, and creating high-performance, data-driven digital product
 ## Experience
 
 <table>
-<tr><td><b style="color: #0EA5E9;">Apr 2026 - Present</b></td><td style="color: #212529;">Backend Developer, Yukatech A.S. - scalable backend services with Node.js and Go, DevOps-driven deployments</td></tr>
-<tr><td><b style="color: #0EA5E9;">Dec 2025 - Apr 2026</b></td><td style="color: #212529;">Full-Stack Developer, JEFE DE JEFES - production web apps (e.g. rezzgo.com) with TypeScript, Next.js (SSR/SSG), Node.js</td></tr>
-<tr><td><b style="color: #0EA5E9;">Nov 2025 - Jan 2026</b></td><td style="color: #212529;">Web Developer, darksn - custom high-performance WordPress theme and PHP router, SEO optimization</td></tr>
-<tr><td><b style="color: #0EA5E9;">Sep - Oct 2025</b></td><td style="color: #212529;">AI and Software Engineering Intern, Semruk Yazilim - 3D medical image segmentation with Swin-UNETR and MONAI</td></tr>
-<tr><td><b style="color: #0EA5E9;">Jul - Sep 2025</b></td><td style="color: #212529;">AI Internship, university research - GAN, WGAN, and CNN model development with PyTorch and TensorFlow</td></tr>
+<tr><td><b>Apr 2026 - Present</b></td><td>Backend Developer, Yukatech A.S. - scalable backend services with Node.js and Go, DevOps-driven deployments</td></tr>
+<tr><td><b>Dec 2025 - Apr 2026</b></td><td>Full-Stack Developer, JEFE DE JEFES - production web apps (e.g. rezzgo.com) with TypeScript, Next.js (SSR/SSG), Node.js</td></tr>
+<tr><td><b>Nov 2025 - Jan 2026</b></td><td>Web Developer, darksn - custom high-performance WordPress theme and PHP router, SEO optimization</td></tr>
+<tr><td><b>Sep - Oct 2025</b></td><td>AI and Software Engineering Intern, Semruk Yazilim - 3D medical image segmentation with Swin-UNETR and MONAI</td></tr>
+<tr><td><b>Jul - Sep 2025</b></td><td>AI Internship, university research - GAN, WGAN, and CNN model development with PyTorch and TensorFlow</td></tr>
 </table>
 
 <br/>
@@ -60,9 +60,9 @@ code maintainability, and creating high-performance, data-driven digital product
 ## Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Arabic-Native-212529?style=flat-square&logo=arabic&logoColor=0EA5E9"/>
-  <img src="https://img.shields.io/badge/Turkish-C1-212529?style=flat-square&logo=turkish&logoColor=0EA5E9"/>
-  <img src="https://img.shields.io/badge/English-B2-212529?style=flat-square&logo=english&logoColor=0EA5E9"/>
+  <img src="https://img.shields.io/badge/Arabic-Native-212529?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Turkish-C1-212529?style=flat-square"/>
+  <img src="https://img.shields.io/badge/English-B2-212529?style=flat-square"/>
 </p>
 
 <br/>
@@ -120,7 +120,7 @@ code maintainability, and creating high-performance, data-driven digital product
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background: #ffffff; border-radius: 12px; padding: 15px;">
+<td width="50%" valign="top">
 
 **Artificial Intelligence and Data**
 - Deep Learning
@@ -131,7 +131,7 @@ code maintainability, and creating high-performance, data-driven digital product
 - AI-Powered Applications
 
 </td>
-<td width="50%" valign="top" style="background: #ffffff; border-radius: 12px; padding: 15px;">
+<td width="50%" valign="top">
 
 **Software Engineering**
 - Full-Stack Application Development
@@ -161,15 +161,30 @@ code maintainability, and creating high-performance, data-driven digital product
 
 <div align="center">
 
-[![Abdulrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrahmanhamdi&show_icons=true&theme=default&count_private=true&hide_border=true&cache_seconds=1800&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&icon_color=0EA5E9)](https://github.com/abdulrahmanhamdi)
+<!-- GitHub Stats Card -->
+<a href="https://github.com/abdulrahmanhamdi">
+  <img src="https://github-readme-stats.shion.dev/api?username=abdulrahmanhamdi&show_icons=true&theme=default&count_private=true&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&icon_color=0EA5E9&cache_seconds=86400" width="49%" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=default&hide_border=true&cache_seconds=1800&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529)](https://github.com/abdulrahmanhamdi)
+<!-- Top Languages Card -->
+<a href="https://github.com/abdulrahmanhamdi">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=default&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&cache_seconds=86400" width="42%" />
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=default&hide_border=true&background=f2f2f2&stroke=dee2e6&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=212529&sideNums=212529&sideLabels=6c757d&dates=6c757d)](https://github.com/abdulrahmanhamdi)
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/abdulrahmanhamdi">
+  <img src="https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=default&hide_border=true&background=f2f2f2&stroke=dee2e6&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=212529&sideNums=212529&sideLabels=6c757d&dates=6c757d&cache_seconds=86400" width="70%" />
+</a>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanhamdi&theme=github-light&hide_border=true&bg_color=f2f2f2&color=0EA5E9&line=0EA5E9&point=0284c7&area_color=0EA5E9&area=true)](https://github.com/abdulrahmanhamdi)
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/abdulrahmanhamdi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanhamdi&theme=github-light&hide_border=true&bg_color=f2f2f2&color=0EA5E9&line=0EA5E9&point=0284c7&area_color=0EA5E9&area=true&cache_seconds=86400" width="90%" />
+</a>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdulrahmanhamdi&theme=flat&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529)](https://github.com/abdulrahmanhamdi)
+<!-- Neural Network Animated Graphic -->
+<div align="center">
+  <img src="./nn-animation.svg" alt="Neural Network Animation" width="90%" />
+</div>
 
 </div>
 
@@ -214,6 +229,6 @@ code maintainability, and creating high-performance, data-driven digital product
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f2f2,50:dee2e6,100:f2f2f2&height=100&section=footer" width="100%"/>
 
-<i style="color: #6c757d;">Building. Learning. Teaching. Creating.</i>
+<i>Building. Learning. Teaching. Creating.</i>
 
 </div>
