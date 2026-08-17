@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f2f2,50:dee2e6,100:f2f2f2&height=200&section=header&text=Abdulrahman%20Hamdi&fontSize=42&fontColor=212529&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%7C%20MSc%20Student%20%7C%20AI%20Engineer%20%7C%20Author&descAlignY=55&descSize=16" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Abdulrahman%20Hamdi&fontSize=42&fontColor=c9d1d9&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%7C%20MSc%20Student%20%7C%20AI%20Engineer%20%7C%20Author&descAlignY=55&descSize=16" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f2f2f2,50:dee2e6,100:f2f2f2&height=200&section=header&text=Abdulrahman%20Hamdi&fontSize=42&fontColor=212529&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%7C%20MSc%20Student%20%7C%20AI%20Engineer%20%7C%20Author&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f2f2,50:dee2e6,100:f2f2f2&height=200&section=header&text=Abdulrahman%20Hamdi&fontSize=42&fontColor=212529&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%7C%20MSc%20Student%20%7C%20AI%20Engineer%20%7C%20Author&descAlignY=55&descSize=16" width="100%"/>
+</picture>
 
 <a href="https://github.com/abdulrahmanhamdi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+MSc+Student;Full-Stack+%26+AI+Developer;Published+Author+of+Three+Books;Ranked+1st+in+Department%2C+Sivas+Cumhuriyet+University" alt="Typing SVG" />
@@ -163,27 +167,47 @@ code maintainability, and creating high-performance, data-driven digital product
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/abdulrahmanhamdi">
-  <img src="https://github-readme-stats.shion.dev/api?username=abdulrahmanhamdi&show_icons=true&theme=default&count_private=true&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&icon_color=0EA5E9&cache_seconds=86400" width="49%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=abdulrahmanhamdi&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9&icon_color=0EA5E9&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=abdulrahmanhamdi&show_icons=true&theme=default&count_private=true&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&icon_color=0EA5E9&cache_seconds=86400" />
+    <img src="https://github-readme-stats.shion.dev/api?username=abdulrahmanhamdi&show_icons=true&theme=default&count_private=true&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&icon_color=0EA5E9&cache_seconds=86400" width="49%" />
+  </picture>
 </a>
 
 <!-- Top Languages Card -->
 <a href="https://github.com/abdulrahmanhamdi">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=default&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&cache_seconds=86400" width="42%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=default&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&cache_seconds=86400" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=default&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&cache_seconds=86400" width="42%" />
+  </picture>
 </a>
 
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/abdulrahmanhamdi">
-  <img src="https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=default&hide_border=true&background=f2f2f2&stroke=dee2e6&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=212529&sideNums=212529&sideLabels=6c757d&dates=6c757d&cache_seconds=86400" width="70%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=default&hide_border=true&background=f2f2f2&stroke=dee2e6&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=212529&sideNums=212529&sideLabels=6c757d&dates=6c757d&cache_seconds=86400" />
+    <img src="https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=default&hide_border=true&background=f2f2f2&stroke=dee2e6&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=212529&sideNums=212529&sideLabels=6c757d&dates=6c757d&cache_seconds=86400" width="70%" />
+  </picture>
 </a>
 
 <!-- GitHub Activity Graph -->
 <a href="https://github.com/abdulrahmanhamdi">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanhamdi&theme=github-light&hide_border=true&bg_color=f2f2f2&color=0EA5E9&line=0EA5E9&point=0284c7&area_color=0EA5E9&area=true&cache_seconds=86400" width="90%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanhamdi&theme=github-dark&hide_border=true&bg_color=0d1117&color=0EA5E9&line=0EA5E9&point=0284c7&area_color=0EA5E9&area=true&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanhamdi&theme=github-light&hide_border=true&bg_color=f2f2f2&color=0EA5E9&line=0EA5E9&point=0284c7&area_color=0EA5E9&area=true&cache_seconds=86400" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanhamdi&theme=github-light&hide_border=true&bg_color=f2f2f2&color=0EA5E9&line=0EA5E9&point=0284c7&area_color=0EA5E9&area=true&cache_seconds=86400" width="90%" />
+  </picture>
 </a>
 
-<!-- Neural Network Animated Graphic -->
+<!-- Neural Network Animated Graphic (labeled: Eng Abdulrahman Hamdi -> Vision Engineer) -->
 <div align="center">
-  <img src="./nn-animation.svg" alt="Neural Network Animation" width="90%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./nn-animation-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./nn-animation.svg" />
+    <img src="./nn-animation-light.svg" alt="Neural Network Animation" width="90%" />
+  </picture>
 </div>
 
 </div>
@@ -227,7 +251,11 @@ code maintainability, and creating high-performance, data-driven digital product
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f2f2,50:dee2e6,100:f2f2f2&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f2f2f2,50:dee2e6,100:f2f2f2&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f2f2,50:dee2e6,100:f2f2f2&height=100&section=footer" width="100%"/>
+</picture>
 
 <i>Building. Learning. Teaching. Creating.</i>
 
