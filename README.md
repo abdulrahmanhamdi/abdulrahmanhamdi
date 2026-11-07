@@ -167,11 +167,22 @@ code maintainability, and creating high-performance, data-driven digital product
 <div align="center">
 
 <!--
-  This image is generated daily by the "Metrics" GitHub Action (.github/workflows/metrics.yml)
-  and committed to this repository, so it never depends on an external server.
+  These cards are generated every 6 hours by the "Update Stats Cards" GitHub Action
+  (.github/workflows/stats.yml) and committed to assets/, so they never depend on an external server.
 -->
 <a href="https://github.com/abdulrahmanhamdi">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
+    <img src="./assets/stats-light.svg" alt="GitHub Stats" width="49%" />
+  </picture>
+</a>
+<a href="https://github.com/abdulrahmanhamdi">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/langs-light.svg" />
+    <img src="./assets/langs-light.svg" alt="Most Used Languages" width="42%" />
+  </picture>
 </a>
 
 <br/><br/>
