@@ -1,0 +1,58 @@
+name: Update Stats Cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      # ---------- Stats card ----------
+      - name: Stats card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=abdulrahmanhamdi&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9&icon_color=0EA5E9
+          path: assets/stats-dark.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Stats card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=abdulrahmanhamdi&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&icon_color=0EA5E9
+          path: assets/stats-light.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      # ---------- Top languages card ----------
+      - name: Languages card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=abdulrahmanhamdi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9
+          path: assets/langs-dark.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Languages card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=abdulrahmanhamdi&layout=compact&theme=default&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529
+          path: assets/langs-light.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Commit updated cards
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update stats cards [skip ci]"
+          file_pattern: assets/*.svg
