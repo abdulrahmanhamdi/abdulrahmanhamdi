@@ -79,6 +79,7 @@ code maintainability, and creating high-performance, data-driven digital product
   <img src="https://img.shields.io/badge/Python-212529?style=flat-square&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/Java-212529?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-212529?style=flat-square&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Go-212529?style=flat-square&logo=go&logoColor=00ADD8"/>
 </p>
 
 ### Web Development
@@ -165,50 +166,22 @@ code maintainability, and creating high-performance, data-driven digital product
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
+<!--
+  This image is generated daily by the "Metrics" GitHub Action (.github/workflows/metrics.yml)
+  and committed to this repository, so it never depends on an external server.
+-->
 <a href="https://github.com/abdulrahmanhamdi">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=abdulrahmanhamdi&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9&icon_color=0EA5E9&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=abdulrahmanhamdi&show_icons=true&theme=default&count_private=true&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&icon_color=0EA5E9&cache_seconds=86400" />
-    <img src="https://github-readme-stats.shion.dev/api?username=abdulrahmanhamdi&show_icons=true&theme=default&count_private=true&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&icon_color=0EA5E9&cache_seconds=86400" width="49%" />
-  </picture>
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="95%" />
 </a>
 
-<!-- Top Languages Card -->
-<a href="https://github.com/abdulrahmanhamdi">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0EA5E9&text_color=c9d1d9&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=default&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&cache_seconds=86400" />
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulrahmanhamdi&layout=compact&theme=default&hide_border=true&bg_color=f2f2f2&title_color=0EA5E9&text_color=212529&cache_seconds=86400" width="42%" />
-  </picture>
-</a>
+<br/><br/>
 
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/abdulrahmanhamdi">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=default&hide_border=true&background=f2f2f2&stroke=dee2e6&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=212529&sideNums=212529&sideLabels=6c757d&dates=6c757d&cache_seconds=86400" />
-    <img src="https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=default&hide_border=true&background=f2f2f2&stroke=dee2e6&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=212529&sideNums=212529&sideLabels=6c757d&dates=6c757d&cache_seconds=86400" width="70%" />
-  </picture>
-</a>
-
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/abdulrahmanhamdi">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanhamdi&theme=github-dark&hide_border=true&bg_color=0d1117&color=0EA5E9&line=0EA5E9&point=0284c7&area_color=0EA5E9&area=true&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanhamdi&theme=github-light&hide_border=true&bg_color=f2f2f2&color=0EA5E9&line=0EA5E9&point=0284c7&area_color=0EA5E9&area=true&cache_seconds=86400" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanhamdi&theme=github-light&hide_border=true&bg_color=f2f2f2&color=0EA5E9&line=0EA5E9&point=0284c7&area_color=0EA5E9&area=true&cache_seconds=86400" width="90%" />
-  </picture>
-</a>
-
-<!-- Neural Network Animated Graphic (labeled: Eng Abdulrahman Hamdi -> Vision Engineer) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./nn-animation-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./nn-animation.svg" />
-    <img src="./nn-animation-light.svg" alt="Neural Network Animation" width="90%" />
-  </picture>
-</div>
+<!-- Neural Network Animated Graphic (Eng Abdulrahman Hamdi -> Vision Engineer) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./nn-animation-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./nn-animation.svg" />
+  <img src="./nn-animation-light.svg" alt="Neural Network Animation" width="90%" />
+</picture>
 
 </div>
 
