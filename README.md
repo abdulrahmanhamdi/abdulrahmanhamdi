@@ -185,6 +185,15 @@ code maintainability, and creating high-performance, data-driven digital product
   </picture>
 </a>
 
+<!-- GitHub Streak Stats (days of contributions) -->
+<a href="https://github.com/abdulrahmanhamdi">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/streak-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/streak-light.svg" />
+    <img src="./assets/streak-light.svg" alt="GitHub Streak" width="70%" />
+  </picture>
+</a>
+
 <br/><br/>
 
 <!-- Neural Network Animated Graphic (Eng Abdulrahman Hamdi -> Vision Engineer) -->
