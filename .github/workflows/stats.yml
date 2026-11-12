@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: stats-cards
+  cancel-in-progress: true
+
 jobs:
   stats:
     runs-on: ubuntu-latest
@@ -66,6 +70,10 @@ jobs:
           }
           fetch "https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" assets/streak-dark.svg
           fetch "https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=default&hide_border=true&background=f2f2f2&stroke=dee2e6&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=212529&sideNums=212529&sideLabels=6c757d&dates=6c757d" assets/streak-light.svg
+
+      # Pull any commit pushed while this job was running, so the push never gets rejected
+      - name: Sync with latest main
+        run: git pull --rebase --autostash origin main
 
       - name: Commit updated cards
         uses: stefanzweifel/git-auto-commit-action@v5
