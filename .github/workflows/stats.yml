@@ -51,6 +51,22 @@ jobs:
           path: assets/langs-light.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
+      # ---------- Streak card ----------
+      # Downloaded in the runner and saved into the repo. If the service is down,
+      # the previous file stays untouched.
+      - name: Streak cards
+        run: |
+          fetch() {
+            if curl -fsSL --retry 3 --retry-delay 5 "$1" -o tmp.svg && grep -q "<svg" tmp.svg; then
+              mv tmp.svg "$2"
+            else
+              echo "Skipped $2 (service unavailable), keeping previous version"
+              rm -f tmp.svg
+            fi
+          }
+          fetch "https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" assets/streak-dark.svg
+          fetch "https://streak-stats.demolab.com?user=abdulrahmanhamdi&theme=default&hide_border=true&background=f2f2f2&stroke=dee2e6&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=212529&sideNums=212529&sideLabels=6c757d&dates=6c757d" assets/streak-light.svg
+
       - name: Commit updated cards
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
